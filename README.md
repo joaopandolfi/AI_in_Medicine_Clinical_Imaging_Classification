@@ -1,9 +1,5 @@
 # EyeNet
 
-## Overview
-
-This is the code for [this](https://youtu.be/DCcmFXXAHf4) video on Youtube by Siraj Raval on medical classification. 
-
 ## Detecting Diabetic Retinopathy With Deep Learning
 
 ## Objective
